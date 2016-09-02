@@ -14,3 +14,6 @@ https://github.com/roughike/BottomBar/tree/v1
 
 fragment navigation drawer
 https://github.com/codepath/android_guides/wiki/Fragment-Navigation-Drawer
+
+rouded shape button
+http://stackoverflow.com/questions/6054562/how-to-make-the-corners-of-a-button-round
