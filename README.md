@@ -17,3 +17,6 @@ https://github.com/codepath/android_guides/wiki/Fragment-Navigation-Drawer
 
 rouded shape button
 http://stackoverflow.com/questions/6054562/how-to-make-the-corners-of-a-button-round
+
+personalized list view
+https://www.youtube.com/watch?v=FoX_WJ_bS8c
