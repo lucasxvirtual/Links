@@ -20,3 +20,6 @@ http://stackoverflow.com/questions/6054562/how-to-make-the-corners-of-a-button-r
 
 personalized list view
 https://www.youtube.com/watch?v=FoX_WJ_bS8c
+
+run app with localhost api
+https://futurestud.io/tutorials/how-to-run-an-android-app-against-a-localhost-api
